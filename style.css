@@ -1,0 +1,96 @@
+body
+{
+background-image: url("http://www.planwallpaper.com/static/images/518164-backgrounds.jpg");
+}
+h1 
+{
+text-align:center;
+font-size:40px;
+}
+h2
+{
+text-align:center;
+}
+#d:link
+{
+color:white;
+text-decoration:none;
+}
+#d:visited
+{
+color:white;
+text-decoration:none;
+}
+#a
+{
+font-size:14px;
+text-align:left;
+}
+#b
+{
+float: left;
+}
+#c
+{
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333;
+}
+#b a
+{
+display:block;
+color:white;
+text:align: center;
+padding:20px 80px;
+text-decoration:none
+}
+p
+{
+text-align:center;
+font-size:18px;
+}
+ul
+{
+list-style-type:none
+}
+li
+{
+text-align:center;
+font-size:18px;
+}
+a:visited
+{
+text-decoration:none;
+}
+a:link
+{
+text-decoration:none;
+}
+table
+{
+font-family:arial;
+border-collapse: collapse;
+width:100%;
+}
+td,th
+{
+border: 1px solid black;
+text-align:left;
+padding:9px;
+}
+#b #d:hover:not(.active)
+{
+background-color:powderblue;
+color:black;
+}
+.active
+{
+background-color:powderblue;
+color:black;
+}
+tr
+{
+background-color:#dddddd;
+}
